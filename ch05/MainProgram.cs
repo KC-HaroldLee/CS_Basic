@@ -7,7 +7,7 @@ namespace day_1
         public static void Main()
         {
             System.Console.WriteLine("시작");
-            Sample03 sample = new Sample03();
+            Sample05 sample = new Sample05();
             sample.Run();
             System.Console.WriteLine("끝");
         }

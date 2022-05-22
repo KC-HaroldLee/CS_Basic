@@ -15,9 +15,9 @@ class Sample01
         car.Move();
         car.Move();
 
-        pb.Image = car.image;
-        pb.Top = car.top;
-        pb.Left = car.left;
+        //pb.Image = car.image;
+        //pb.Top = car.top;
+        //pb.Left = car.left;
 
         pb.Parent = fm;
         Application.Run(fm);

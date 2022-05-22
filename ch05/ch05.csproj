@@ -37,9 +37,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calc.cs" />
+    <Compile Include="RacingCar.cs" />
+    <Compile Include="Card.cs" />
     <Compile Include="NameTag.cs" />
     <Compile Include="MainProgram.cs" />
     <Compile Include="Car.cs" />
+    <Compile Include="Sample05.cs" />
+    <Compile Include="Sample04.cs" />
     <Compile Include="Sample03.cs" />
     <Compile Include="Sample02.cs" />
     <Compile Include="Sample01.cs" />
